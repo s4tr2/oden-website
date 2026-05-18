@@ -105,6 +105,15 @@ export default function Home() {
 
       {/* 1 + 2. Hero and product demo on a shared background */}
       <section className="relative isolate overflow-hidden bg-background-off-white">
+        {/* Mobile warm tint */}
+        <div
+          className="pointer-events-none absolute inset-0 z-0 md:hidden"
+          style={{
+            backgroundImage:
+              'radial-gradient(120% 70% at 50% 0%, #FFE9D6 0%, #FFF3E4 35%, #FBF6EE 70%, #FAF9F6 100%)',
+          }}
+          aria-hidden
+        />
         {/* Background image — desktop only */}
         <div
           className="pointer-events-none absolute inset-0 z-0 hidden md:block"

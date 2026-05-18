@@ -76,14 +76,14 @@ export function Navigation() {
   return (
     <header
       className={cn(
-        'fixed inset-x-0 z-[50] transition-[top,box-shadow] duration-300 ease-out',
-        scrolled ? 'top-4' : 'top-3 md:top-4'
+        'fixed inset-x-0 z-[50] px-3 md:px-0 transition-[top,box-shadow] duration-300 ease-out',
+        scrolled ? 'top-3 md:top-4' : 'top-3 md:top-4'
       )}
     >
       <div
         className={cn(
-          siteShellClassName,
-          '!pl-2 !pr-2 lg:!pl-3 lg:!pr-2.5',
+          'mx-auto w-full max-w-[1120px]',
+          'pl-3 pr-2 lg:pl-3 lg:pr-2.5',
           'rounded-lg border border-border-sand/80 bg-white/95 backdrop-blur-md transition-shadow duration-300 ease-out',
           scrolled ? 'shadow-sm' : 'shadow-md'
         )}
