@@ -216,7 +216,7 @@ function PMMFortune() {
   const [visible, setVisible] = useState(true)
 
   useEffect(() => {
-    let swapTimeout: ReturnType<typeof setTimeout> | undefined
+    let swapTimeout: number | undefined
     const rotate = () => {
       setVisible(false)
       swapTimeout = window.setTimeout(() => {
