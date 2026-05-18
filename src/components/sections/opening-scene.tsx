@@ -77,7 +77,7 @@ export function OpeningScene() {
                     </h1>
 
                     <p className="mx-auto mt-5 max-w-xl text-[18px] leading-[1.55] text-mid-gray text-pretty">
-                        Every signal into one place. PMM governs the commercial truth on top. Every artifact stays current, sourced, and on-narrative.
+                        Every signal into one place. PMM governs the commercial truth on top. Oden helps companies tell the same story in unison.
                     </p>
 
                     <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row sm:items-center">
