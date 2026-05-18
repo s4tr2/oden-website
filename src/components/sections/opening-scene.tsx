@@ -49,7 +49,7 @@ export function OpeningScene() {
                                 aria-hidden
                                 className="cd-spin mr-2 h-4 w-4 shrink-0"
                             />
-                            The narrative operating system for PMM
+                            The operating system for PMMs
                         </Eyebrow>
                     </div>
 

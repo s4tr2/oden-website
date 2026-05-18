@@ -447,7 +447,7 @@ function AfterPanel() {
                         WebkitTextFillColor: 'transparent',
                         backgroundClip: 'text',
                     }}>
-                        One governed source for what your company is allowed to say.
+                        One governed source - Always on point and approved
                     </span>
                 </h2>
                 <div className="grid gap-5 md:grid-cols-3">
