@@ -1,0 +1,85 @@
+# Format: Company Name | Company Website | Competitor 1 Name | Competitor 1 Website | Competitor 2 Name | Competitor 2 Website | Competitor 3 Name | Competitor 3 Website | Industry | Status
+# Status: pending, processing, done, skipped
+
+Vapi | https://vapi.ai | Synthflow | https://synthflow.ai | Bland AI | https://bland.ai | Retell | https://retellai.com | Voice AI | done
+Cursor | https://cursor.sh | AmpCode | https://ampcode.io | Windsurf | https://codeium.com/windsurf | Droid | https://droid.com | Claude Code | https://claude.ai | AI Coding Tools | done
+Sentry | https://sentry.io | Datadog | https://datadoghq.com | Rollbar | https://rollbar.com | Bugsnag | https://bugsnag.com | Error Monitoring | done
+Scribe | https://scribehow.com | Tango | https://tango.us | Guidde | https://guidde.com | iorad | https://iorad.com | Documentation Tools | done
+Delve | https://delve.ai | Vanta | https://vanta.com | Drata | https://drata.com | Secureframe | https://secureframe.com | Security Compliance | done
+CodeRabbit | https://coderabbit.ai | Cursor Bugbot | https://cursor.sh | Greptile | https://greptile.com | Graphite Agent | https://graphite.dev | AI Code Review | done
+1mind | https://www.1mind.com/ | Conversica | https://www.conversica.com/ | Qualified | https://www.qualified.com/ | Exceed.ai | https://www.exceed.ai/ | AI Sales | done
+Reevo | https://reevo.ai/ | Apollo.io | https://www.apollo.io | HubSpot Sales Hub | https://www.hubspot.com/products/sales | ZoomInfo | https://www.zoominfo.com | Sales Intelligence | done
+Magic Patterns | https://www.magicpatterns.com/ | v0 | https://v0.dev | Uizard | https://uizard.io | Bolt | https://bolt.new | AI Design Tools | done
+Attentive | https://www.attentive.com | Braze | https://www.braze.com | Klaviyo | https://www.klaviyo.com | Insider | https://useinsider.com | AI Customer Engagement | done
+Mintlify | https://www.mintlify.com/ | GitBook | https://www.gitbook.com | Readme.io | https://readme.io | Docusaurus | https://docusaurus.io | Documentation Tools | done
+SentinelOne | https://www.sentinelone.com | CrowdStrike | https://www.crowdstrike.com | Palo Alto Networks Cortex XDR | https://www.paloaltonetworks.com/cortex/cortex-xdr | Microsoft Defender for Endpoint | https://www.microsoft.com/security/business/endpoint-security/microsoft-defender-endpoint | Cybersecurity | done
+Lovable | https://lovable.dev | Bolt.new | https://bolt.new | Cursor | https://cursor.com | Replit | https://replit.com | AI Development Platform | done
+n8n | https://n8n.io | Zapier | https://zapier.com | Make | https://make.com | Pipedream | https://pipedream.com | Workflow Automation | done
+Harvey | https://www.harvey.ai/ | CoCounsel Legal | https://cocounsel.com/ | Spellbook | https://www.spellbook.legal/ | Everlaw | https://www.everlaw.com/ | Legal AI | done
+Transfix | https://transfix.io/ | Uber Freight | https://www.uberfreight.com | Convoy | https://convoy.com | Loadsmart | https://loadsmart.com | Logistics Platform | done
+Parallel | https://parallel.ai/ | Exa | https://exa.ai | Tavily | https://tavily.com | You.com | https://you.com | AI Search Infrastructure | done
+ElevenLabs | https://elevenlabs.io/ | Murf.ai | https://murf.ai | PlayHT | https://play.ht | Cartesia | https://cartesia.ai | Voice AI | done
+Substack | https://substack.com/ | Ghost | https://ghost.org/ | ConvertKit | https://convertkit.com/ | beehiiv | https://www.beehiiv.com/ | Newsletter Platform | done
+ThoughtSpot | https://www.thoughtspot.com/ | Pyramid Analytics | https://pyramidanalytics.com/ | Alteryx | https://www.alteryx.com/ | WisdomAI | https://www.wisdom.ai/ | AI Data Analyst | done
+Mixpanel | https://mixpanel.com/ | Amplitude Analytics | https://amplitude.com | Heap | https://heap.io | PostHog | https://posthog.com | Product Analytics | done
+Webflow | https://webflow.com/ | Wix | https://www.wix.com | Squarespace | https://www.squarespace.com | Framer | https://www.framer.com | Website Builder | done
+Eightfold | https://eightfold.ai/ | SeekOut | https://www.seekout.com/ | Phenom | https://www.phenom.com/ | hireEZ | https://hireez.com/ | Talent Intelligence | done
+Fivetran | https://www.fivetran.com/ | Airbyte | https://airbyte.com | Hevo Data | https://hevodata.com | Matillion | https://www.matillion.com | Data Integration | done
+Postman | https://postman.com | Insomnia | https://insomnia.rest | Hoppscotch | https://hoppscotch.io | Bruno | https://usebruno.com | API Development & Testing | done
+CockroachDB | https://www.cockroachlabs.com/ | YugabyteDB | https://www.yugabyte.com | Google Cloud Spanner | https://cloud.google.com/spanner | TiDB | https://www.pingcap.com | Amazon Aurora | https://aws.amazon.com/rds/aurora | Distributed SQL Database | done
+Jasper | https://jasper.ai | Copy.ai | https://copy.ai | Writesonic | https://writesonic.com | Grammarly | https://grammarly.com | AI Content Writing | done
+Descript | https://descript.com | Riverside | https://riverside.fm | VEED | https://veed.io | Kapwing | https://www.kapwing.com | Video & Audio Editing | done
+Redpanda | https://redpanda.com | Confluent | https://confluent.io | Apache Kafka | https://kafka.apache.org | StreamNative | https://streamnative.io | Data Streaming Platform | done
+Fireworks.ai | https://fireworks.ai | Together.ai | https://together.ai | Replicate | https://replicate.com | Anyscale | https://anyscale.com | AI Inference Platform | done
+Clay | https://clay.com | Apollo.io | https://www.apollo.io | ZoomInfo | https://www.zoominfo.com | Lusha | https://www.lusha.com | Cognism | https://www.cognism.com | AI Sales Intelligence | done
+Cohere | https://cohere.com | OpenAI | https://openai.com | Anthropic | https://anthropic.com | Google AI | https://ai.google | AI21 Labs | https://ai21.com | Enterprise AI Models | done
+Decagon | https://decagon.ai | Intercom | https://intercom.com | Zendesk | https://zendesk.com | Ada | https://ada.cx | Kustomer | https://kustomer.com | AI Customer Support | done
+Scale | https://scale.com | Labelbox | https://labelbox.com | Appen | https://appen.com | Snorkel AI | https://snorkel.ai | V7 | https://v7.labs | AI Data Labeling | done
+CrewAI | https://crewai.com | LangChain | https://langchain.com | AutoGPT | https://agpt.co | Bardeen | https://bardeen.ai | 11x.ai | https://11x.ai | AI Agent Framework | done
+Typeface | https://typeface.ai | Jasper | https://jasper.ai | Copy.ai | https://copy.ai | Writesonic | https://writesonic.com | AI Content Creation | done
+Algolia | https://algolia.com | Elasticsearch | https://elastic.co | Meilisearch | https://meilisearch.com | Typesense | https://typesense.org | Search & Discovery | done
+DataRobot | https://datarobot.com | H2O.ai | https://h2o.ai | Dataiku | https://dataiku.com | Databricks | https://databricks.com | AutoML Platform | done
+Highspot | https://highspot.com | Seismic | https://seismic.com | Showpad | https://showpad.com | Salesloft | https://salesloft.com | Sales Enablement | done
+Retool | https://retool.com | Budibase | https://budibase.com | Appsmith | https://appsmith.com | Airplane | https://airplane.dev | Internal Tools Platform | done
+Contentful | https://contentful.com | Sanity | https://sanity.io | Strapi | https://strapi.io | Prismic | https://prismic.io | Headless CMS | done
+Outreach | https://outreach.io | Salesloft | https://salesloft.com | Apollo.io | https://apollo.io | Gong | https://gong.io | Sales Engagement | done
+Superhuman | https://superhuman.com | Shortwave | https://shortwave.com | Spike | https://spikenow.com | Front | https://front.com | Email Client | done
+Customer.io | https://customer.io | Braze | https://braze.com | Iterable | https://iterable.com | Klaviyo | https://klaviyo.com | Customer Engagement | done
+Doximity | https://doximity.com | Sermo | https://sermo.com | Figure 1 | https://figure1.com | Medscape | https://medscape.com | Medical Network | done
+Sigmacomputing | https://sigmacomputing.com | Looker | https://looker.com | Tableau | https://tableau.com | Mode | https://mode.com | Cloud Analytics | done
+Gorgias | https://gorgias.com | Zendesk | https://zendesk.com | Freshdesk | https://freshdesk.com | Re:amaze | https://reamaze.com | Ecommerce Support | done
+Cloudinary | https://cloudinary.com | Imgix | https://imgix.com | Uploadcare | https://uploadcare.com | Cloudflare Images | https://cloudflare.com | Media Management | done
+Envoy | https://envoy.com | Teem | https://teem.com | Robin | https://robinpowered.com | Skedda | https://skedda.com | Workplace Platform | done
+Quizlet | https://quizlet.com | Kahoot | https://kahoot.com | Anki | https://apps.ankiweb.net | Memrise | https://memrise.com | Educational Platform | done
+Bloomreach | https://bloomreach.com | Optimizely | https://optimizely.com | Dynamic Yield | https://dynamicyield.com | Monetate | https://monetate.com | Digital Experience | done
+Chainalysis | https://chainalysis.com | Elliptic | https://elliptic.co | TRM Labs | https://trmlabs.com | CipherTrace | https://ciphertrace.com | Blockchain Analytics | done
+Atlan | https://atlan.com | Alation | https://alation.com | Collibra | https://collibra.com | Informatica EDC | https://www.informatica.com | Data Catalog | done
+Doubleverify | https://doubleverify.com | IAS | https://integralads.com | MOAT | https://moat.com | Pixalate | https://pixalate.com | Ad Verification | done
+Moveworks | https://moveworks.ai | ServiceNow | https://servicenow.com | Espressive | https://espressive.com | Atomicwork | https://atomicwork.com | AI IT Support | done
+Simpplr | https://simpplr.com | Happeo | https://happeo.com | Unily | https://unily.com | MangoApps | https://mangoapps.com | Employee Intranet | done
+Hightouch | https://hightouch.com | Census | https://getcensus.com | Polytomic | https://polytomic.com | Grouparoo | https://grouparoo.com | Reverse ETL | done
+Merge | https://merge.dev | Finch | https://finchapi.com | Rutter | https://rutter.com | Apideck | https://apideck.com | Unified API | done
+Antithesis | https://antithesis.com | Gremlin | https://gremlin.com | mabl | https://mabl.com | ProdPerfect | https://prodperfect.com | Autonomous Software Testing | done
+CreatorIQ | https://creatoriq.com | Grin | https://grin.co | Aspire | https://aspireiq.com | Upfluence | https://upfluence.com | Influencer Marketing | done
+Yotpo | https://yotpo.com | Bazaarvoice | https://bazaarvoice.com | PowerReviews | https://powerreviews.com | Trustpilot | https://trustpilot.com | Customer Reviews | done
+Turnitin | https://turnitin.com | Grammarly | https://grammarly.com | Copyscape | https://copyscape.com | Plagscan | https://plagscan.com | Plagiarism Detection | done
+Signifyd | https://signifyd.com | Riskified | https://riskified.com | Forter | https://forter.com | Sift | https://sift.com | Fraud Prevention | done
+Alchemy | https://alchemy.com | Infura | https://infura.io | QuickNode | https://quicknode.com | Moralis | https://moralis.io | Web3 Infrastructure | done
+Nextdoor | https://nextdoor.com | Facebook Groups | https://facebook.com | Patch | https://patch.com | Neighbors | https://ring.com | Neighborhood Network | done
+G2 | https://g2.com | Capterra | https://capterra.com | TrustRadius | https://trustradius.com | Gartner Peer Insights | https://gartner.com | Software Reviews | done
+Articulate | https://articulate.com | Adobe Captivate | https://adobe.com | iSpring | https://ispringsolutions.com | Storyline | https://articulate.com/storyline | eLearning Authoring | done
+CultureAmp | https://cultureamp.com | Lattice | https://latticeapp.com | 15Five | https://15five.com | Officevibe | https://officevibe.com | Employee Engagement | done
+Telnyx | https://telnyx.com | Twilio | https://twilio.com | Vonage | https://vonage.com | Plivo | https://plivo.com | Communications API | done
+Uniphore | https://uniphore.com | Gong | https://gong.io | Chorus.ai | https://chorus.ai | Avoma | https://www.avoma.com | Conversation Intelligence | done
+Pixalate | https://pixalate.com | DoubleVerify | https://doubleverify.com | IAS | https://integralads.com | MOAT | https://moat.com | Ad Fraud Detection | done
+DataVisor | https://datavisor.com | Forter | https://forter.com | Sift | https://sift.com | Signifyd | https://signifyd.com | Fraud Detection | done
+Sweep | https://sweep.io | Brex | https://brex.com | Ramp | https://ramp.com | Divvy | https://getdivvy.com | Spend Management | done
+Ambient.ai | https://ambient.ai | Verkada | https://verkada.com | Rhombus | https://rhombus.com | Spot AI | https://spot.ai | AI Security | done
+Coactive.ai | https://coactive.ai | Scale AI | https://scale.com | Labelbox | https://labelbox.com | V7 | https://v7.labs | Visual AI Platform | done
+Coefficient | https://coefficient.io | Hex | https://hex.tech | Observable | https://observablehq.com | Deepnote | https://deepnote.com | Data Spreadsheet | done
+Intempt | https://intempt.com | Segment | https://segment.com | mParticle | https://mparticle.com | RudderStack | https://rudderstack.com | Customer Data Platform | done
+Responsive.io | https://responsive.io | Klaviyo | https://klaviyo.com | Attentive | https://attentive.com | Postscript | https://postscript.io | SMS Marketing | done
+Practis.ai | https://practis.ai | Gong | https://gong.io | Chorus.ai | https://chorus.ai | Mindtickle | https://mindtickle.com | Sales Coaching | done
+Whatfix | https://whatfix.com | WalkMe | https://walkme.com | SAP Enable Now | https://enable-now.com | Apty | https://apty.io | Digital Adoption Platform | done
+Serval | https://www.serval.com | Aisera | https://aisera.com | Moveworks | https://moveworks.ai | Atomicwork | https://atomicwork.com | AI IT Support | done
+Nango | https://nango.dev | Merge | https://merge.dev | Apideck | https://apideck.com | Paragon | https://useparagon.com | Unified API Platform | done
