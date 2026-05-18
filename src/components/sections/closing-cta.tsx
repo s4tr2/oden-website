@@ -40,7 +40,7 @@ export function ClosingCTA() {
                                     letterSpacing: '-0.02em',
                                 }}
                             >
-                                Every week, harder to leave.
+                                Give your team one governed truth to sell from.
                             </h2>
                             <p
                                 className="text-white/80 text-pretty"

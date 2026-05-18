@@ -341,19 +341,19 @@ function BeforePanel() {
     const illustrations = [ScavengerIllustration, ChatIllustration, ChaosIllustration]
     const cards = [
         {
-            eyebrow: 'Context re-gathering',
-            title: '~60% of a PMM\'s week',
-            body: 'Every deliverable starts with the same scavenger hunt: calls, competitor moves, and sales notes. The work before the work.',
+            eyebrow: 'Narrative drift',
+            title: 'Five teams. Five versions of the story.',
+            body: 'Sales adapts the pitch. Enablement rewrites the deck. Regions localize the claim. AI generates a sixth version. No one governs which one is true.',
         },
         {
-            eyebrow: 'Output reality',
-            title: 'Sales learns from prospects, not the system',
-            body: 'A competitor changes pricing on Tuesday. Sales is still using the old number on Friday.',
+            eyebrow: 'Revenue leakage',
+            title: 'Reps improvise in live deals. Managers coach different versions.',
+            body: 'Inconsistent value articulation in openers, discovery, and objection handling. It\'s not a content problem — it\'s avoidable leakage in active pipeline.',
         },
         {
-            eyebrow: 'Tool hoarding',
-            title: 'One deliverable touches ten+ tools',
-            body: 'Gong, G2, Docs, Notion, Slack, ChatGPT. Nothing connects. Nothing remembers.',
+            eyebrow: 'Post-launch decay',
+            title: 'Launches produce activity. Not adoption.',
+            body: 'Deck downloads don\'t mean the field carries the story. Without manager reinforcement and inspection, messaging reverts within weeks.',
         },
     ]
 
@@ -361,7 +361,7 @@ function BeforePanel() {
         <div className="w-full bg-white py-16 md:py-20">
             <div className={siteShellClassName}>
                 <div className="mb-7">
-                    <Eyebrow variant="muted">The current state of product marketing</Eyebrow>
+                    <Eyebrow variant="muted">The real cost of ungoverned messaging</Eyebrow>
                 </div>
                 <h2
                     className="mb-10 max-w-2xl text-balance"
@@ -374,7 +374,7 @@ function BeforePanel() {
                         WebkitTextFillColor: 'transparent',
                         backgroundClip: 'text',
                     }}>
-                        Context lives in calls, docs, and threads. Never where you need it.
+                        Your messaging doesn&apos;t fail at launch. It fails every day after.
                     </span>
                 </h2>
                 <div className="grid gap-5 md:grid-cols-3">
@@ -409,9 +409,9 @@ function AfterPanel() {
     const illustrations = [SignalFlowIllustration, LiveUpdateIllustration, HubIllustration]
     const cards = [
         {
-            eyebrow: 'Signal capture',
-            title: 'Every signal lands automatically',
-            body: 'Calls, competitor moves, docs, and Slack threads flow in continuously. The context is already there when you need it.',
+            eyebrow: 'Governed inputs',
+            title: 'Every signal. One governed truth.',
+            body: 'Calls, competitor moves, reviews, and market signals flow in continuously. Oden synthesizes them into defensible claims — not just raw context.',
         },
         {
             eyebrow: 'Live artifacts',
@@ -419,9 +419,9 @@ function AfterPanel() {
             body: 'A competitor changes pricing on Tuesday. Sales has the updated battle card by Wednesday morning.',
         },
         {
-            eyebrow: 'One workspace',
-            title: 'One source generates everything',
-            body: 'Oden connects every signal to every output. One governed workspace, everything in sync.',
+            eyebrow: 'Controlled distribution',
+            title: 'Adapt without drift.',
+            body: 'Battle cards, decks, talk tracks, and web copy all draw from the same governed narrative. Teams localize examples — not the core claim.',
         },
     ]
 
@@ -447,7 +447,7 @@ function AfterPanel() {
                         WebkitTextFillColor: 'transparent',
                         backgroundClip: 'text',
                     }}>
-                        One place that collects everything and keeps every output current.
+                        One governed source for what your company is allowed to say.
                     </span>
                 </h2>
                 <div className="grid gap-5 md:grid-cols-3">

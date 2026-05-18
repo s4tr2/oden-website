@@ -318,7 +318,7 @@ export function Footer() {
               </span>
             </Link>
             <p className="text-mid-gray text-[15px] leading-[1.65] max-w-[300px] text-pretty">
-              The operating system for product marketing. Every signal in, PMM-authored truth on top.
+              The narrative operating system for product marketing. Every signal in, PMM-governed truth on top.
             </p>
             
             {/* Email signup */}

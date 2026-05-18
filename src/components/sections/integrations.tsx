@@ -107,7 +107,7 @@ export function Integrations() {
                             className="text-pretty text-[#6E6B65]"
                             style={{ fontSize: '17px', lineHeight: 1.6, letterSpacing: '-0.16px' }}
                         >
-                            Oden connects to the tools your team already lives in — calls, reviews, CRM, docs, and more — so context arrives without anyone asking for it.
+                            Oden connects to the tools your team already lives in — calls, reviews, CRM, docs, and more — so the governed narrative always starts from real signals, not stale assumptions.
                         </p>
                         <div className="mt-6 inline-flex items-center gap-2 rounded-lg border border-[#E8E5E0] bg-[#FAFAF9] px-3.5 py-2">
                             <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">

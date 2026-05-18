@@ -49,7 +49,7 @@ export function OpeningScene() {
                                 aria-hidden
                                 className="cd-spin mr-2 h-4 w-4 shrink-0"
                             />
-                            The OS for product marketing
+                            The narrative operating system for PMM
                         </Eyebrow>
                     </div>
 
@@ -77,7 +77,7 @@ export function OpeningScene() {
                     </h1>
 
                     <p className="mx-auto mt-5 max-w-xl text-[18px] leading-[1.55] text-mid-gray text-pretty">
-                        Every signal into one place, lets PMM author the company&apos;s story on top, and keeps every artifact current and sourced.
+                        Every signal into one place. PMM governs the commercial truth on top. Every artifact stays current, sourced, and on-narrative.
                     </p>
 
                     <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row sm:items-center">
