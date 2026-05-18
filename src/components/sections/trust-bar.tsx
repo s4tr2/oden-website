@@ -5,7 +5,7 @@ import { FadeIn } from "./layout-helpers";
 export function TrustBar() {
     return (
         <section className="w-full bg-white py-20 md:py-24 border-t border-border-sand/60">
-            <div className="max-w-[1200px] mx-auto px-6 lg:px-8">
+            <div className="max-w-[1120px] mx-auto px-6 lg:px-8">
                 <FadeIn>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-16">
                         {/* Backed by */}

@@ -5,7 +5,7 @@ import { FadeIn } from "./layout-helpers";
 export function FeatureHighlight() {
     return (
         <section className="w-full bg-off-white py-24 md:py-32">
-            <div className="max-w-[1200px] mx-auto px-6 lg:px-8">
+            <div className="max-w-[1120px] mx-auto px-6 lg:px-8">
                 <div className="grid grid-cols-1 md:grid-cols-12 gap-10 md:gap-20 items-start">
                     <div className="md:col-span-5">
                         <FadeIn>

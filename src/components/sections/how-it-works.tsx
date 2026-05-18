@@ -27,7 +27,7 @@ const steps = [
 export function HowItWorks() {
     return (
         <section className="w-full bg-off-white py-24 md:py-32">
-            <div className="max-w-[1200px] mx-auto px-6 lg:px-8">
+            <div className="max-w-[1120px] mx-auto px-6 lg:px-8">
                 <FadeIn>
                     <div className="max-w-3xl mb-16">
                         <h2>

@@ -304,7 +304,7 @@ export function Footer() {
       {/* Easter egg modal */}
       <LetterModal isOpen={letterOpen} onClose={() => setLetterOpen(false)} />
       
-      <div className="mx-auto max-w-[1200px] px-6 lg:px-8 pt-16 pb-8">
+      <div className="mx-auto max-w-[1120px] px-6 lg:px-8 pt-16 pb-8">
         {/* Main footer content */}
         <div className="grid grid-cols-1 md:grid-cols-12 gap-12 md:gap-8">
           {/* Brand column */}

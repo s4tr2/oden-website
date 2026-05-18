@@ -60,7 +60,7 @@ export function PmmBrainBlueprint() {
 
     return (
         <section className="w-full bg-surface-cream py-24 md:py-32 relative overflow-hidden">
-            <div className="max-w-[1200px] mx-auto px-6 lg:px-8">
+            <div className="max-w-[1120px] mx-auto px-6 lg:px-8">
                 <FadeIn>
                     <div className="text-center max-w-3xl mx-auto mb-16 md:mb-20">
                         <p

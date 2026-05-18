@@ -73,7 +73,7 @@ export function FAQSection({
 
   return (
     <section className={cn("w-full py-24 md:py-32", className)} id="faq">
-      <div className="max-w-[1200px] mx-auto px-6 lg:px-8">
+      <div className="max-w-[1120px] mx-auto px-6 lg:px-8">
         <FadeIn>
           {/* Header */}
           <div className="mb-12">

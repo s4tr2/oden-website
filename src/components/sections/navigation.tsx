@@ -83,25 +83,25 @@ export function Navigation() {
       <div
         className={cn(
           siteShellClassName,
-          '!px-4 lg:!px-5',
-          'rounded-xl border border-border-sand/80 bg-white/95 backdrop-blur-md transition-shadow duration-300 ease-out',
+          '!pl-2 !pr-2 lg:!pl-3 lg:!pr-2.5',
+          'rounded-lg border border-border-sand/80 bg-white/95 backdrop-blur-md transition-shadow duration-300 ease-out',
           scrolled ? 'shadow-sm' : 'shadow-md'
         )}
       >
-      <nav className="px-3 md:px-4" aria-label="Global">
-        <div className="flex items-center justify-between py-3.5">
+      <nav className="pl-1 pr-0 md:pl-2 md:pr-0" aria-label="Global">
+        <div className="flex items-center justify-between py-2">
           <div className="flex items-center gap-3">
             <Link href="/" className="flex items-center group">
-              <span className="font-semibold text-headline-black text-xl md:text-2xl" style={{ letterSpacing: '-0.4px' }}>Oden</span>
+              <span className="font-semibold text-headline-black text-lg" style={{ letterSpacing: '-0.4px' }}>Oden</span>
             </Link>
           </div>
 
-          <div className="hidden lg:flex lg:items-center lg:gap-x-8">
+          <div className="hidden lg:flex lg:items-center lg:gap-x-6">
             {navigation.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
-                className="text-base text-mid-gray hover:text-headline-black transition-colors"
+                className="text-sm text-mid-gray hover:text-headline-black transition-colors"
                 style={{ letterSpacing: '-0.16px' }}
               >
                 {item.name}
@@ -109,12 +109,12 @@ export function Navigation() {
             ))}
           </div>
 
-          <div className="hidden lg:flex lg:items-center lg:gap-x-3">
+          <div className="hidden lg:flex lg:items-center lg:gap-x-2">
             <a
               href="https://app.getoden.com/login"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-base text-mid-gray hover:text-headline-black transition-colors px-4 py-2.5"
+              className="text-sm text-mid-gray hover:text-headline-black transition-colors px-3 py-2"
               style={{ letterSpacing: '-0.16px' }}
             >
               Login
@@ -123,7 +123,7 @@ export function Navigation() {
               href="https://app.getoden.com/signup"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-4 py-2.5 rounded bg-headline-black text-white text-base hover:bg-headline-black transition-colors"
+              className="rounded bg-headline-black px-4 py-2 text-sm text-white transition-colors hover:bg-headline-black"
               style={{ letterSpacing: '-0.16px' }}
             >
               Start free trial
@@ -133,12 +133,12 @@ export function Navigation() {
           <div className="flex lg:hidden">
             <button
               type="button"
-              className="-m-2.5 inline-flex items-center justify-center rounded p-2.5 text-headline-black"
+              className="-my-1 inline-flex items-center justify-center rounded p-2 text-headline-black"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               aria-label={mobileMenuOpen ? 'Close menu' : 'Open menu'}
             >
               <span className="sr-only">{mobileMenuOpen ? 'Close menu' : 'Open main menu'}</span>
-              {mobileMenuOpen ? <X size={26} /> : <Menu size={26} />}
+              {mobileMenuOpen ? <X size={22} /> : <Menu size={22} />}
             </button>
           </div>
         </div>
@@ -146,7 +146,7 @@ export function Navigation() {
         <AnimatePresence>
           {mobileMenuOpen && (
             <motion.div
-              className="lg:hidden border-t border-border-sand/60 pb-4 overflow-hidden"
+              className="lg:hidden border-t border-border-sand/60 pb-3 overflow-hidden"
               role="dialog"
               aria-modal="true"
               aria-label="Mobile navigation menu"
@@ -166,7 +166,7 @@ export function Navigation() {
                   >
                     <Link
                       href={item.href}
-                      className="flex min-h-12 items-center rounded px-3 text-base text-mid-gray hover:text-headline-black hover:bg-off-white transition-colors"
+                      className="flex min-h-10 items-center rounded px-2 text-sm text-mid-gray hover:text-headline-black hover:bg-off-white transition-colors"
                       onClick={() => setMobileMenuOpen(false)}
                     >
                       {item.name}
@@ -175,12 +175,12 @@ export function Navigation() {
                 ))}
               </div>
 
-              <div className="mt-4 pt-4 border-t border-border-sand flex items-center gap-3">
+              <div className="mt-3 pt-3 border-t border-border-sand flex items-center gap-2">
                 <a
                   href="https://app.getoden.com/login"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-base text-mid-gray hover:text-headline-black transition-colors px-3"
+                  className="text-sm text-mid-gray hover:text-headline-black transition-colors px-2"
                   onClick={() => setMobileMenuOpen(false)}
                 >
                   Login
@@ -189,7 +189,7 @@ export function Navigation() {
                   href="https://app.getoden.com/signup"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-4 py-2.5 rounded bg-headline-black text-white text-base hover:bg-headline-black transition-colors"
+                  className="px-3 py-1.5 rounded bg-headline-black text-white text-sm hover:bg-headline-black transition-colors"
                   onClick={() => setMobileMenuOpen(false)}
                 >
                   Start free trial

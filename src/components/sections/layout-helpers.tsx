@@ -3,7 +3,7 @@
 import { cn } from "@/lib/utils";
 import { useEffect, useRef } from "react";
 
-export const siteShellClassName = "mx-auto w-full max-w-[1200px] px-6 lg:px-8";
+export const siteShellClassName = "mx-auto w-full max-w-[1120px] px-6 lg:px-8";
 
 /**
  * Consistent eyebrow pill component used across all sections.

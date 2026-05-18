@@ -386,7 +386,7 @@ export function ProductMedia() {
         <section className="relative w-full overflow-hidden pb-16 md:pb-20" id="how-it-does">
             <div className={`${siteShellClassName} relative z-10`}>
                 <FadeIn>
-                    <div className="mx-auto max-w-[1093px]">
+                    <div className="mx-auto max-w-[1020px]">
                         <div className="rounded-xl border border-[#E3E3E3] bg-[#F0F0F0] p-2.5 shadow-[0_25px_70px_rgba(16,24,40,0.06)] md:p-3">
                             <div className="mb-2.5 flex items-center gap-2 md:mb-3">
                                 <span className="size-3 rounded-full bg-[#FBC7C5]" />

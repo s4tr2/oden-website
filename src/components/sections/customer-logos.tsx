@@ -16,7 +16,7 @@ const customerLogos = [
 export function CustomerLogos() {
     return (
         <section className="w-full border-y border-border-sand/50 bg-white py-12 md:py-14">
-            <div className="max-w-[1200px] mx-auto px-6 lg:px-8">
+            <div className="max-w-[1120px] mx-auto px-6 lg:px-8">
                 <FadeIn>
                     <p
                         className="text-center text-[12px] uppercase text-placeholder-gray mb-8"

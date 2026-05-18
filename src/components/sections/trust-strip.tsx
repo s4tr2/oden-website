@@ -12,7 +12,7 @@ const badges = [
 export function TrustStrip() {
     return (
         <section className="w-full border-t border-border-sand/60 bg-white py-10">
-            <div className="max-w-[1200px] mx-auto px-6 lg:px-8">
+            <div className="max-w-[1120px] mx-auto px-6 lg:px-8">
                 <FadeIn>
                     <div
                         className="flex flex-col sm:flex-row items-center justify-center gap-x-8 gap-y-4 text-[13px] text-center"
