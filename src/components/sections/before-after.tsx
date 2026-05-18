@@ -484,13 +484,9 @@ function AfterPanel() {
 
 export function BeforeAfter() {
     return (
-        <div className="relative" style={{ height: '320vh' }}>
-            <div className="sticky top-[72px] z-[1]">
-                <BeforePanel />
-            </div>
-            <div className="sticky top-[72px] z-[2]" style={{ marginTop: '100vh' }}>
-                <AfterPanel />
-            </div>
+        <div className="relative">
+            <BeforePanel />
+            <AfterPanel />
         </div>
     )
 }
