@@ -8,7 +8,6 @@ import { cn } from '@/lib/utils'
 import { siteShellClassName } from './layout-helpers'
 
 const navigation = [
-  { name: 'Product', href: '/#what-it-does' },
   { name: 'Pricing', href: '/pricing' },
   { name: 'Blog', href: '/blog' },
 ]

@@ -269,7 +269,7 @@ const productLinks: FooterLink[] = [
 
 const resourceLinks: FooterLink[] = [
   { name: 'Templates', href: '/tools/templates' },
-  { name: 'Job Board', href: '/tools/product-marketing-job-board' },
+  { name: 'Product Marketing Jobs', href: 'https://productmarketingjobs.co?utm_referrer=Oden', external: true },
   { name: 'Glossary', href: '/tools/product-marketing-glossary' },
   { name: 'Events', href: '/tools/product-marketing-events' },
   { name: 'Blog', href: '/blog' },
